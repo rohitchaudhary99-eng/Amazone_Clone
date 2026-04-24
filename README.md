@@ -1,2 +1,2 @@
 # Amazone_Clone
-my first clone project
+This is my first Git repositry
